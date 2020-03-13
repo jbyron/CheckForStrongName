@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CheckForSignature": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Work\\g\\amelia\\projects\\InteliSys.amelia.Messaging.Legacy.Dcom\\bin\\Debug\""
+    }
+  }
+}
